@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Engineer Portrait Generator",
+  "description": "An application that transforms a user's portrait into a futuristic AI engineer version using the Gemini API.",
+  "requestFramePermissions": []
+}
